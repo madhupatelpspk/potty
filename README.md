@@ -1,4 +1,3 @@
-# ajay
-Ajay Weds Saritha
+#MadhuPotty
 
-https://madhupatelpspk.github.io/ajay/
+https://madhupatelpspk.github.io/Potty
