@@ -1,3 +1,3 @@
 #MadhuPotty
 
-https://madhupatelpspk.github.io/potty
+https://madhupatelpspk.github.io/bday
